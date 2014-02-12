@@ -2,7 +2,4 @@ the_ROM_image:
 {
 	/home/chris/Desktop/xilinx_working_directory/SDK_Export/edk_system_hw_platform/system.bit
 	[bootloader]/home/chris/Desktop/xilinx_working_directory/SDK_Export/amp_fsbl/Debug/amp_fsbl.elf
-	/home/chris/Desktop/xilinx_working_directory/ready_for_download/u-boot.elf
-	/home/chris/Desktop/xilinx_working_directory/SDK_Export/led/Debug/led.elf
-	/home/chris/Desktop/xilinx_working_directory/ready_for_download/cpu1_bootvec.bin
 }
